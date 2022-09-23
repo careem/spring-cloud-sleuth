@@ -4,7 +4,7 @@ slack: mobility-be-matching-notifications
 project: maven
 agent: pipeline-generator-agent
 source: bitbucket
-branch: MARP-6182-fix-tracing-path-variable-parameters
+branch: 1.3.x.custom
 
 
 stages:
@@ -16,4 +16,4 @@ jobs:
     stage: deploy-to-artifactory
     profile: qa
     cmd: make deploy
-    branch: MARP-6182-fix-tracing-path-variable-parameters
+    branch: 1.3.x.custom
