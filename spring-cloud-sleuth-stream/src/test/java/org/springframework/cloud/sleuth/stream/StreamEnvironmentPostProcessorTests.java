@@ -95,5 +95,4 @@ public class StreamEnvironmentPostProcessorTests {
 		return (Map<String, String>) this.environment.getPropertySources()
 				.get("defaultProperties").getSource();
 	}
-
 }
