@@ -4,4 +4,5 @@ slack: mobility-be-matching-notifications
 project: maven
 agent: pipeline-generator-agent
 source: bitbucket
-branch: master
+branch: 1.3.x.custom
+cat
