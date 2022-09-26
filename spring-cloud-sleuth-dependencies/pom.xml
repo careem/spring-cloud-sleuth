@@ -152,4 +152,5 @@
 			<url>https://artifactory-pro.careem-internal.com/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
+
 </project>
