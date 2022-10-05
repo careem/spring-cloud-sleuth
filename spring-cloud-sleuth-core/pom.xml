@@ -23,7 +23,7 @@
     <parent>
 		<groupId>org.springframework.cloud</groupId>
 		<artifactId>spring-cloud-sleuth</artifactId>
-		<version>1.3.6.CAREEM2-SNAPSHOT</version>
+		<version>1.3.6.CAREEM2</version>
 		<relativePath>..</relativePath>
 	</parent>
 
