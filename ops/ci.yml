@@ -1,0 +1,8 @@
+team: mobility-be-matching
+email: mobility_be_matching@careem.com
+slack: mobility-be-matching-notifications
+project: maven
+agent: pipeline-generator-agent
+source: bitbucket
+branch: 1.3.x.custom
+
